@@ -75,12 +75,6 @@ or
 .registration_body{
     background-image: url(img/c8.png);
 }
-.contact-form{
-    margin-top: 6%;
-    margin-bottom: 5%;
-    max-width: 70%;
-    border-radius: 20px;
-}
 .contact-form .form-control{
     background-color: rgb(185, 199, 212, .6) !important;
     border-color: rgb(67, 94, 119) !important;
